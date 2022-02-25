@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular account of the suddain and unexpected siege of Vienna, the capital city of Austria, and residence of the Emperour of Germany, at present besieged by the Turkish Army, consisting of a hundred and fifty thousand men (the 8th of July, 1683) under the command of the Grand Visier, and what passed during the seige [sic] as well within the city, as without it</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56484</idno>
+            <idno type="STC">Wing P587</idno>
+            <idno type="STC">ESTC R20817</idno>
+            <idno type="EEBO-CITATION">12610763</idno>
+            <idno type="OCLC">ocm 12610763</idno>
+            <idno type="VID">64359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 771:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular account of the suddain and unexpected siege of Vienna, the capital city of Austria, and residence of the Emperour of Germany, at present besieged by the Turkish Army, consisting of a hundred and fifty thousand men (the 8th of July, 1683) under the command of the Grand Visier, and what passed during the seige [sic] as well within the city, as without it</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>"Made English from the High-Dutch."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kara Mustafa Paşa, --  Merzifonlu, 1634-1683.</term>
+               <term>Turkey. --  Ordu.</term>
+               <term>Vienna (Austria) --  History --  Siege, 1683.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:64359:1" rendition="simple:additions"/>
+            <head>A Particular ACCOUNT Of the Suddain and Unexpected <hi>Siege of Vienna,</hi> The Capital City of AUSTRIA, And Reſidence of the Emperour of GERMANY, At preſent Beſieged by the <hi>Turkiſh</hi> Army, Con<g ref="char:EOLhyphen"/>ſiſting of a Hundred and Fifty Thouſand Men, (the 8th. of <hi>July,</hi> 1683.) under the Command of the <hi>Grand Viſier,</hi> and what paſſed during the Seige, as well within the City, as without it.</head>
+            <p>THis famous City took its Name from the River <hi>Wien,</hi> which flows into the <hi>Danube,</hi> and is the Reſidence of the Emperour, and Metropolis of <hi>Au<g ref="char:EOLhyphen"/>ſtria,</hi> a Royal Fortification, Surrounded with thick Walls, Baſtions, deep Ditches, and lofty Towers, in ſuch ſort as She may well be Stiled the <hi>Bulwark</hi> againſt the <hi>Turks,</hi> the Key of <hi>Germany,</hi> and of the <hi>Chriſtian</hi> World, as She made it appear in the Year 1529. When <hi>Solyman</hi> the <hi>Magnificent,</hi> Emperour of the <hi>Turks,</hi> Sate down before it, with Three Hundred Thouſand Men, and after Six Months Furious and unuſual Attacques, was forced to withdraw, whereupon that <hi>Chriſtian</hi> City was delivered.</p>
+            <p>The <hi>Turkiſh</hi> Emperour, in this preſent Year, 1683, Like a Tyrant thirſting after <hi>Chriſtian</hi> Bloud (by the Encouragement of the Rebel <hi>Count Teckley</hi>) ſent a<g ref="char:EOLhyphen"/>gain into <hi>Hungary,</hi> Two Hundred Thouſand Men, under the Conduct of the <hi>Grand Viſier</hi> to Commence a War with the <hi>Chriſtians,</hi> which is now carried on with great Fury: The <hi>Turks</hi> have lately made an Incurſion near <hi>Raab,</hi> in which the Regiment of Dragoons Commanded by the Duke of <hi>Savoy,</hi> were Routed, the Duke himſelf, and the Prince of <hi>Arembergh</hi> Wounded, ſo that they Died; Whereupon the <hi>Imperi<g ref="char:EOLhyphen"/>al</hi> Infantry retreated to the Iſle of <hi>Schut,</hi> and the <hi>Cavelry</hi> to <hi>Vienna,</hi> near the <hi>Da<g ref="char:EOLhyphen"/>nube.</hi> After which the <hi>Grand Viſier</hi> paſſed the Cities of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>orra</hi> and <hi>Raab,</hi> and (the 8th. of <hi>July</hi>) Beſeiged the City of <hi>Vienna,</hi> with a Hundered and Fifty Thou<g ref="char:EOLhyphen"/>ſand Men; and ordered the Reſt of the Forces, to lay waſte the Country in their March, ſo as utterly to extirpate <hi>Chriſtianity.</hi> The <hi>Beſiegers</hi> immediately raiſed Three ſeveral Batteries before <hi>Vienna,</hi> and Fired thence into the Town, Day and Night, with great Fury, but the brave Governour, Count <hi>Starembergh</hi> made a Vi<g ref="char:EOLhyphen"/>gorous
+<pb facs="tcp:64359:2"/>Defence, levelled the Batteries, and in many Aſſaults happily repulſed the E<g ref="char:EOLhyphen"/>nemy, ſo as there were Slain of the <hi>Turks</hi> in theſe Attacques above Twenty Thou<g ref="char:EOLhyphen"/>ſand, and of the <hi>Beſeiged</hi> about Twenty Perſons killed, and ſome Wounded: The <hi>Turks</hi> ſent ſeveral times their Propoſals for a ſhort Reſpite to Bury their Dead, which was refuſed them, ſo as in the End, the Annoyance from dead Bodies, and thoſe they found in the Mines, that Died of the Peſtilence, Obliged them to draw ſome diſtance off from the City. In the mean time, the Beſeiged were refreſhed, and Vow<g ref="char:EOLhyphen"/>ed to Defend it to the laſt drop of Bloud. All Things in the City Remained in a good Poſture, and at length they ſeize'd two Incendiaries, who had privately conveyed Matches of Gunpowder with Artificial Fires into many Houſes with deſign to Burn them, and to Fire the <hi>Scotch Monastery</hi> and <hi>Church;</hi> but their Deſignes were timely Dicovered, and the Contrivers were firſt Torterd, then caſt alive into the Fire.</p>
+            <p>The Beſeiged did then believe the Enemy had forſook the City, but they returned and raiſed new Batteries, on which they mounted Six large peices of Ordinance and many new Mortar—peices, which they Diſcharged with greater Vigour than before. They gave out, that the <hi>Grand Signior</hi> wou'd come in perſon before his Army, and bring extraordinary Supplies with him. Notwithſtanding, the Beſieged ſupported themſelves with great Reſolution, for there came over not long before an Engineer who brought with him a Draught of the <hi>Turkiſh</hi> Camp to the Duke of <hi>Lorrain,</hi> and aſſured him, that the <hi>Turk</hi> wanted Proviſions; and there<g ref="char:EOLhyphen"/>fore that if the Three Mines they had ſprung were ineffectual, they muſt ſpeedilly raiſe the Siege: The Enemy blew up two of them, which were between the <hi>Caſtle</hi> and <hi>Karndter Gate;</hi> One of which was countermined, and in it many of the <hi>Turks</hi> ſlain: but the Second, weakened the <hi>Counters Carp,</hi> and the <hi>Turks</hi> lodged them<g ref="char:EOLhyphen"/>ſelves in the <hi>Ditch,</hi> but by a brisk Sally, they were beaten off again,</p>
+            <p>The 29th. of the laſt <hi>Month,</hi> were ſlan in a general Aſſault more than Ten Thouſand <hi>Turks.</hi> In ſhort, the City of <hi>Vienna</hi> wou'd endure, with the help of God, four or five Months longer, being ſo well ſtored with Proviſions that Governour <hi>Starembergh</hi> ſent as much Bread for two Pence to the <hi>Turkiſh</hi> Camp as wou'd coſt with them ſix Crownes: Wee hope by the Divine Aſſiſtance, that the Cheif <hi>Chriſtian</hi> City will be preſerved from the Cruelty of the <hi>Turkiſh</hi> Emperour, and that he may languiſh in his Deſires and return to <hi>Mahomets</hi> Stables, and that the great God will dwell in the Garriſon of <hi>Vienna,</hi> conſiſting of twenty Thouſand Men Effective, beſides the Scholars and Young Men, the Auxiliary Forces of <hi>Poland</hi> and thoſe of the Empire.</p>
+            <p>Made <hi>Engliſh</hi> from the <hi>High—Dutch.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Smith,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
